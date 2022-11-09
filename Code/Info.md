@@ -1,0 +1,2 @@
+## I just want to add that i have had some problems with my vscode not recognizing my pipfile dependencies but my code runs locally
+## The visualization have unfortunately not been saved remotely on git hub
